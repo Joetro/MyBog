@@ -27,13 +27,13 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [{
 		name: "first song",
-		path: "SIN FINAL.wav",
+		path: "/audio/",
 		img: "img/imagen8.jpg",
 		singer: "1"
 	},
 	{
 		name: "second song",
-		path: "AMOR.mp3",
+		path: "#",
 		img: "img/img2.jpg",
 		singer: "2"
 	},
