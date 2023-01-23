@@ -9,7 +9,7 @@ class MyHeader extends HTMLElement{
         <nav>
         <ul>
         
-        <li><a href=inicio.html>Home</a>
+        <li><a href=index.html>Home</a>
         <li><a href=contenido.html>Contenido</a>
         <li><a href=conclusion.html>Conclusionb</a>
         <li><a href=musica.html>Music</a>
