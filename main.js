@@ -3,7 +3,7 @@ class MyHeader extends HTMLElement{
         this.innerHTML =`
         
         <header>
-        <a href= iicio.html>
+        <a href= index.html>
         
         </a>
         <nav>
@@ -11,8 +11,8 @@ class MyHeader extends HTMLElement{
         
         <li><a href=index.html>Home</a>
         <li><a href=contenido.html>Contenido</a>
-        <li><a href=conclusion.html>Conclusionb</a>
-        <li><a href=musica.html>Music</a>
+        <li><a href=conclusion.html>Conclusion</a>
+        <li><a href=referencia.html>Referencia</a>
 
         </ul>
         
