@@ -70,7 +70,7 @@ let data = [
     {
         'id': 'a10',
         'title': 'Relax',
-        'name': 'R.mp3',
+        'name': 'Relax.mp3',
         'duration': '0.8000',
     },
 
