@@ -5,7 +5,7 @@
 }
 
 body{
-   background:  rgb(201, 201, 201);
+   background:  rgb(144, 144, 144);
    box-sizing: border-box;
 }
 
@@ -73,7 +73,7 @@ nav ul{
     text-align: center;
     list-style-type: none;
     padding: 80px;
-    background: linear-gradient(to bottom, rgb(1, 89, 177), rgb(0, 96, 43));
+    background: linear-gradient(to bottom, rgb(1, 31, 60), rgb(3, 100, 98));
     
     
 
@@ -106,7 +106,7 @@ nav a{
     text-shadow: 1px 3px 4px rgb(255, 255, 255);
     text-decoration: none;
 font-size: larger;
-    color:  rgb(205, 205, 126);
+    color:  rgb(8, 248, 52);
     width: 150px;
     transition: .3s ease all;
 }

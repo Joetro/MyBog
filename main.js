@@ -10,8 +10,6 @@ class MyHeader extends HTMLElement{
         <ul>
         
         <li><a href=index.html>Home</a>
-        <li><a href=contenido.html>Contenido</a>
-        <li><a href=conclusion.html>Conclusion</a>
         <li><a href=referencia.html>Referencia</a>
         <li><a href=Music.html>Music</a>
 
