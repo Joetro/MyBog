@@ -119,6 +119,10 @@ font-size: larger;
     min-height: calc(100% / 3 - 211px - 58px);
 
 }
+p{
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
 .sub {
 	font-size: 95%;
 	padding: 3px 0;
