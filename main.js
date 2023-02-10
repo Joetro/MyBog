@@ -11,7 +11,7 @@ class MyHeader extends HTMLElement{
         
         <li><a href=index.html>Home</a>
         <li><a href=referencia.html>Referencia</a>
-        <li><a href=Music.html>Music</a>
+        <li><a href=Music.html>Tutorials</a>
 
 
         </ul>

@@ -73,7 +73,8 @@ nav ul{
     text-align: center;
     list-style-type: none;
     padding: 80px;
-    background: linear-gradient(to bottom, rgb(1, 31, 60), rgb(3, 100, 98));
+    background: rgb(53, 55, 52) url(/img/Spliting.png) no-repeat;
+    /*background: linear-gradient(to bottom, rgb(1, 31, 60), rgb(3, 100, 98));*/
     
     
 
@@ -106,7 +107,7 @@ nav a{
     text-shadow: 1px 3px 4px rgb(255, 255, 255);
     text-decoration: none;
 font-size: larger;
-    color:  rgb(8, 248, 52);
+    color:  rgb(234, 241, 9);
     width: 150px;
     transition: .3s ease all;
 }
