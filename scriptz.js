@@ -13,7 +13,7 @@ const video_playlist = document.querySelector('.video-playlist .videos');
 let data = [
     {
         'id': 'a1',
-        'title': 'TU PRIMER PAGINA WEB',
+        'title': 'TU PRIMER PAGINA WEB(no talk)',
         'name': 'PAGINA WEB2.mp4',
         'duration': '7:42',
     },
