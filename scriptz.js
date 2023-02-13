@@ -13,24 +13,11 @@ const video_playlist = document.querySelector('.video-playlist .videos');
 let data = [
     {
         'id': 'a1',
-        'title': 'manipulate text background',
-        'name': 'manipulate text background.mp4',
-        'duration': '2:47',
+        'title': 'TU PRIMER PAGINA WEB',
+        'name': 'PAGINA WEB2.mp4',
+        'duration': '7:42',
     },
-    {
-        'id': 'a2',
-        'title': 'build gauge with css',
-        'name': 'build gauge with css.mp4',
-        'duration': '2:45',
-    },
-
-    {
-        'id': 'a10',
-        'title': 'Relax',
-        'name': 'Relax.mp3',
-        'duration': '0.8000',
-    },
-
+ 
 ];
 
 data.forEach((video, i) => {
