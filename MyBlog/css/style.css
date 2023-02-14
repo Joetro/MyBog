@@ -5,13 +5,13 @@
 }
 
 body{
-   background:  rgb(144, 144, 144);
+   background:  rgb(202, 202, 199);
    box-sizing: border-box;
 }
 
 
     .contenido{
-        background: rgb(242, 241, 237);
+        background: rgb(203, 203, 203);
         width: 80vw;
         margin: 0 auto;
        display: -ms-grids;
@@ -62,7 +62,6 @@ h1{
     color: white;
     padding: 10px;
     
-    text-shadow: 1px 3px 4px black;
     box-sizing: border-box;
     
     
@@ -73,8 +72,8 @@ nav ul{
     text-align: center;
     list-style-type: none;
     padding: 80px;
-    background: rgb(53, 55, 52) url(/img/Spliting.png) no-repeat;
-    /*background: linear-gradient(to bottom, rgb(1, 31, 60), rgb(3, 100, 98));*/
+    background: rgb(14, 2, 107) ;
+    background: linear-gradient(to bottom, rgb(4, 58, 109), rgb(70, 158, 156));
     
     
 
@@ -100,14 +99,12 @@ nav li{
 
 nav li:hover {
 transform: translateY(10px);
-background-color:hsl(0, 0%, 100%);
 }
 
 nav a{
-    text-shadow: 1px 3px 4px rgb(255, 255, 255);
     text-decoration: none;
 font-size: larger;
-    color:  rgb(234, 241, 9);
+    color: white;
     width: 150px;
     transition: .3s ease all;
 }
