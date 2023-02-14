@@ -23,9 +23,10 @@ body{
     padding-bottom: 58px;
     min-height: calc(100vh - 211px - 58px);
     
-    
   
     }
+  
+    
 
     .seccion {
         margin-bottom: 20px;
@@ -73,7 +74,7 @@ nav ul{
     list-style-type: none;
     padding: 80px;
     background: rgb(14, 2, 107) ;
-    background: linear-gradient(to bottom, rgb(4, 58, 109), rgb(70, 158, 156));
+    background: linear-gradient(to bottom, rgb(81, 109, 4), rgb(105, 158, 70));
     
     
 
@@ -117,8 +118,9 @@ font-size: larger;
 
 }
 p{
-    font-size: large;
+    font-size: larger;
     color: rgb(0, 0, 0);
+    text-align: center;
 }
 .sub {
 	font-size: 95%;
