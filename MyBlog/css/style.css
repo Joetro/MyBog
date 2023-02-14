@@ -69,8 +69,9 @@ h1{
 }  
 
 nav ul{
+    font-size: x-large;
     width: 100%;
-    text-align: center;
+    text-align: right;
     list-style-type: none;
     padding: 80px;
     background: rgb(14, 2, 107) ;
