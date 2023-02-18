@@ -17,6 +17,13 @@ let data = [
         'name': 'PAGINA WEB2.mp4',
         'duration': '7:42',
     },
+    
+    {
+        'id': 'a2',
+        'title': 'COLOR A TU PAG WEB',
+        'name': 'PAGINA WEB.mp4',
+        'duration': '3:14',
+    },
  
 ];
 
