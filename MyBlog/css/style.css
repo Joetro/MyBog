@@ -93,6 +93,9 @@ nav ul{
     background: rgba(175, 193, 235, 0.8);
 	gap: 10px;
 }
+img{
+    box-sizing: border-box;
+}
 
 nav li{
     display:inline-flex;
