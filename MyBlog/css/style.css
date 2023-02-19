@@ -22,6 +22,7 @@ body{
        position: relative;
     padding-bottom: 58px;
     min-height: calc(100vh - 211px - 58px);
+    box-sizing: border-box;
     
   
     }
