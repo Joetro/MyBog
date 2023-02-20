@@ -18,14 +18,9 @@ let data = [
         'duration': '7:42',
     },
     
+   
     {
         'id': 'a2',
-        'title': 'COLOR A TU PAG WEB',
-        'name': 'PAGINA WEB.mp4',
-        'duration': '3:14',
-    },
-    {
-        'id': 'a3',
         'title': 'MUSICA A TU PAG WEB',
         'name': 'AUDIO.mp4',
         'duration': '2:57',
