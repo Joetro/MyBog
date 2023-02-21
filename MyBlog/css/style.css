@@ -14,17 +14,12 @@ body{
         background: rgb(203, 203, 203);
         width: 80vw;
         margin: 0 auto;
-       display: -ms-grids;
+       
        text-align: fixed;
-       padding: 30px 60px 10px;
+       
        font-family: 'Times New Roman', Times, serif;
        font-size: large;
-       position: relative;
-    padding-bottom: 58px;
-    min-height: calc(100vh - 211px - 58px);
     box-sizing: border-box;
-    
-  
     }
   
     
@@ -75,7 +70,6 @@ nav ul{
     text-align: right;
     list-style-type: none;
     padding: 80px;
-    background: rgb(14, 2, 107) ;
     background: linear-gradient(to bottom, rgb(81, 109, 4), rgb(105, 158, 70));
     
     
