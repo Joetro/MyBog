@@ -25,7 +25,12 @@ let data = [
         'name': 'AUDIO.mp4',
         'duration': '2:57',
     },
- 
+    
+    {'id': 'a3',
+        'title': 'PON IMAGEN O PICTURE A TU PAG WEB',
+        'name': 'IMAGEN WEB.mp4',
+        'duration': '1:59',
+},
 ];
 
 data.forEach((video, i) => {
