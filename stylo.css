@@ -7,7 +7,7 @@ You can do whatever you want with the code. However if you love my content, you 
 */
 
 :root {
-    --primary : linear-gradient(to bottom right, #ffffff, #dad9db);
+    --primary : linear-gradient(to bottom right, #ffffff);
     --secondary : gold;
     --text : #000000;
 }
