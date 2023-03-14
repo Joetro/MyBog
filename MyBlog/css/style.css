@@ -5,7 +5,7 @@
 }
 
 body{
-   background: linear-gradient(to bottom , rgb(10, 10, 10),white,white,rgb(7, 7, 7));
+   background: linear-gradient(to bottom , rgb(0, 25, 22),white,white,rgb(0, 25, 21));
    box-sizing: border-box;
 }
 
@@ -70,7 +70,7 @@ nav ul{
     text-align: right;
     list-style-type: none;
     padding: 80px;
-    background: linear-gradient(to right, rgb(0, 0, 0), white,rgb(2, 2, 2));
+    background: linear-gradient(to right, rgb(174, 174, 174), white,rgb(0, 33, 31));
     
     
 
