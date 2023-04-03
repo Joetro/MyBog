@@ -34,7 +34,7 @@ let data = [
 {'id': 'a4',
         'title': 'NAVEGACION A TU PAG WEB',
         'name': 'NAVIGATION.mp4',
-        'duration': '1:59',
+        'duration': '0.00',
 },
 
 
