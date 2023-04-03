@@ -31,6 +31,12 @@ let data = [
         'name': 'IMAGEN WEB.mp4',
         'duration': '1:59',
 },
+{'id': 'a4',
+        'title': 'NAVEGACION A TU PAG WEB',
+        'name': 'NAVIGATION.mp4',
+        'duration': '1:59',
+},
+
 
 
 ];
