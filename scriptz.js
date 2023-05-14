@@ -35,7 +35,14 @@ let data = [
         'title': 'NAVEGACION A TU PAG WEB',
         'name': 'NAVIGATION.mp4',
         'duration': '0.00',
+
 },
+{'id': 'a5',
+        'title': 'NAVEGACION A TU PAG WEB',
+        'name': 'Navegacion 3.mp4',
+        'duration': '0.00',
+},
+
 
 
 
