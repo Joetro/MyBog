@@ -11,15 +11,12 @@ body{
 
 
     .contenido{
-        background: rgb(203, 203, 203);
         width: 80vw;
         margin: 0 auto;
-       
-       text-align: fixed;
-       
-       font-family: 'Times New Roman', Times, serif;
-       font-size: large;
-    box-sizing: border-box;
+       background-color: rgba(132, 131, 130, 0.571);
+       text-align: center;
+       font-family:  'Arial Narrow Bold', sans-serif;
+       font-size: larger;
     }
   
     
@@ -38,6 +35,7 @@ body{
         font-size: large;
         color: black;
         font-family:'Times New Roman', Times, serif;
+        box-sizing: content-box;
     }
     
     
@@ -63,6 +61,8 @@ h1{
     
     
 }  
+
+
 
 nav ul{
     font-size: x-large;
