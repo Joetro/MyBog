@@ -38,8 +38,16 @@ body{
         font-family:'Times New Roman', Times, serif;
         box-sizing: content-box;
     }
+    #banner {
+        box-align: left;
+        display: table;
+        width: 12%;
+        height: 150px;
+        background-color: #f7f7f7;
+        color: #fff;
+        margin-top: 18px;
     
-    
+    }
 h2{
     padding-top: 20px;
     font-size: medium;
@@ -134,10 +142,11 @@ p{
 	clear: both;
 }
 .gallery {
-	colors optional 
+	/*
+    colors optional 
 	background-color: #87b;
 	color:#fff;
-	
+	*/
     
 	text-align: center;
 	padding: 10px 0;
