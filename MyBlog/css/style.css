@@ -115,6 +115,7 @@ transform: translateY(10px);
 }
 
 nav a{
+    display: inline-flex;
     gap: 10px;
     text-decoration: none;
 font-size: larger;
