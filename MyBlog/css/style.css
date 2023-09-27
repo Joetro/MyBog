@@ -18,6 +18,7 @@ body{
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: larger;
+       box-sizing: border-box;
     }
    
     
@@ -81,7 +82,7 @@ nav ul{
     list-style-type: none;
     padding: 80px;
     background: linear-gradient(to right, rgb(0, 0, 0), rgb(184, 181, 92),rgb(0, 0, 0));
-    
+    box-sizing: border-box;
     
 
 
