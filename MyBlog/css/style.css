@@ -17,7 +17,7 @@ body{
         background-color: rgb(237, 237, 237);
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
-       font-size: larger;
+       font-size: large;
        box-sizing: border-box;
     }
    
@@ -115,6 +115,7 @@ transform: translateY(10px);
 }
 
 nav a{
+    gap: 10px;
     text-decoration: none;
 font-size: larger;
     color: white;
