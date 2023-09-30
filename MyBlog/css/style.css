@@ -14,7 +14,7 @@ body{
     .contenido{
         width: 90%;
         margin: 0 auto;
-        background: linear-gradient(to right, rgba(253, 153, 2, 0.573), rgb(255, 240, 73),rgba(253, 142, 7, 0.979));
+        background: linear-gradient(to right, rgba(253, 142, 7, 0.979), rgb(255, 240, 73),rgba(253, 142, 7, 0.146));
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: large;
@@ -81,7 +81,7 @@ nav ul{
     text-align: left;
     list-style-type: none;
     padding: 80px;
-    background: linear-gradient(to right, rgba(253, 153, 2, 0.573), rgb(255, 240, 73),rgba(253, 142, 7, 0.979));
+    background: linear-gradient(to right, rgba(253, 142, 7, 0.146), rgb(255, 240, 73),rgba(253, 142, 7, 0.979));
     box-sizing: border-box;
 
 
