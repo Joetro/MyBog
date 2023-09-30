@@ -14,12 +14,13 @@ body{
     .contenido{
         width: 90%;
         margin: 0 auto;
-        background: linear-gradient(to right, rgb(0, 0, 0), rgb(184, 181, 92),rgb(0, 0, 0));
+        background: linear-gradient(to right, rgb(0, 0, 0), rgb(232, 230, 188),rgb(0, 0, 0));
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: large;
        box-sizing: border-box;
-       color: #f7f7f7;
+       color: #ffffff;
+       
     }
    
     
@@ -65,7 +66,7 @@ h1{
     text-align: center;
     
     
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 10px;
     
     box-sizing: border-box;
@@ -78,13 +79,13 @@ h1{
 nav ul{
     font-size: x-large;
     width: 100%;
-    
-    text-align: right;
+    text-align: left;
     list-style-type: none;
     padding: 80px;
-    background: linear-gradient(to right, rgb(0, 0, 0), rgb(184, 181, 92),rgb(0, 0, 0));
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(246, 241, 116),rgb(0, 0, 0));
     box-sizing: border-box;
-    
+
+
 
 
 }
@@ -119,7 +120,7 @@ nav a{
     display: inline-flex;
     text-decoration: none;
 font-size: larger;
-    color: rgb(201, 201, 201);
+    color: rgb(255, 255, 255);
     width: 150px;
     transition: .3s ease all;
 }
@@ -133,7 +134,7 @@ font-size: larger;
 }
 p{
     font-size: large;
-    color: rgb(214, 218, 158);
+    color: rgb(255, 255, 255);
     text-align: center;
     box-sizing: border-box;
 }
