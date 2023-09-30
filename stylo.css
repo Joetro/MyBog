@@ -1,7 +1,7 @@
 
 
 :root {
-    --primary : linear-gradient(to bottom , rgb(54, 55, 55),white,white,white,white,rgb(42, 43, 43));
+    --primary : linear-gradient(to right, rgba(253, 142, 7, 0.979), rgb(255, 240, 73),rgba(253, 142, 7, 0.979));
     --secondary : gold;
     --text : #000000;
     box-sizing: border-box;
