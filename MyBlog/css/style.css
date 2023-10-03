@@ -14,7 +14,7 @@ body{
     .contenido{
         width: 90%;
         margin: 0 auto;
-        background: linear-gradient(to right, rgba(253, 142, 7, 0.979), rgb(255, 240, 73),rgba(253, 142, 7, 0.146));
+        background: linear-gradient(to right, rgba(253, 142, 7, 0.146), rgb(255, 240, 73),rgba(253, 142, 7, 0.146));
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: large;
@@ -80,8 +80,8 @@ nav ul{
     width: 100%;
     text-align: left;
     list-style-type: none;
-    padding: 80px;
-    background: linear-gradient(to right, rgba(253, 142, 7, 0.146), rgb(255, 240, 73),rgba(253, 142, 7, 0.979));
+    padding: 100px;
+    background: linear-gradient(to right, rgba(253, 142, 7, 0.579), rgb(255, 240, 73),rgba(253, 142, 7, 0.579));
     box-sizing: border-box;
 
 
