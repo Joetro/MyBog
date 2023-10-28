@@ -1,39 +1,51 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>MyBlog</title>
-   <link rel="stylesheet" href="stylo.css"
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <link rel="stylesheet" href="/MyBlog/css/style.css">
+    <link rel="stylesheet" href="/MyBlog/css/videoplaylist.css">
 </head>
-
 <body>
-    
     <my-header></my-header>
 
-    <main class="container">
-        <section class="main-video">
-            <video src="/videos/manipulate text background.mp4 " controls muted controlslist="nodownload"></video>
-            <h3 class="title"> playing Videos Tutorials.</h3>
-        </section>
 
-        <section class="video-playlist">
-            <h3 class="title"> Video Playlist</h3>
-            <p>  &nbsp;  &nbsp; </p>
-            <div class="videos">
+   <br><br><br>
+    
 
-            </div>
-        </section>
-    </main>
-    <script src="scriptz.js"></script>
-    <script src="./main.js"></script>
+
+<div id="vplayer">
+<video controls muted controlslist="nodownload"  height='224' width='100%' id='video' preload='auto' tabindex='0' type='video/mp4'>
+<source src="/videos/1PAG.mp4" type="video/mp4"></source>
+</video>
+</div>
+<ul id="vplaylist">
+<li class="active"><a href="/videos/1PAG.mp4"> primer pag web</a></li>
+<li><a href="/videos/NAVIGATION.mp4">Navegacion 1</a></li>
+<li><a href="/videos/Navegacion 3.mp4">Navegacion 2</a></li>
+<li><a href="/videos/DESPOLEGANDO 04.mp4">Desplegandola en internet totalmente !Gratis!</a></li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+<script src="videoplaylist.js"></script>
+
+
+<script src="./main.js"></script>
+
+
+
 
 </body>
 
