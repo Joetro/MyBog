@@ -27,8 +27,8 @@
     margin: 0 auto 20px auto;
     display: block;
     background: #00000000; /* Fondo del segundo contenedor */
-    border-top: 1px solid rgb(227, 227, 53);
-    border-bottom: 1px solid red;
+    border-top: black 1px solid;
+    border-bottom: black 1px solid;
     text-align: left;
     font-size: 14px; /* Estilos de fuente */
     font-family: 'Arial', Helvetica, sans-serif;
