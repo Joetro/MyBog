@@ -29,6 +29,8 @@
     background: #00000000; /* Fondo del segundo contenedor */
     border-top: black 1px solid;
     border-bottom: black 1px solid;
+    border-right: red 1px solid;
+    border-left: yellow 1px solid;
     text-align: left;
     font-size: 14px; /* Estilos de fuente */
     font-family: 'Arial', Helvetica, sans-serif;
