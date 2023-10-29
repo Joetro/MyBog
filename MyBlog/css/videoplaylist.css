@@ -26,7 +26,7 @@
     #vplaylist {
     margin: 0 auto 20px auto;
     display: block;
-    background: #b0afaf; /* Fondo del segundo contenedor */
+    background: #6042025b; /* Fondo del segundo contenedor */
     border-top: 1px solid #fff;
     text-align: left;
     font-size: 14px; /* Estilos de fuente */
@@ -48,7 +48,7 @@
     text-decoration: none;
     }
     #vplaylist li a:hover{
-    background: #23a6b3; /* Color de fondo al pasar el cursor */
+    background: #b3b12310; /* Color de fondo al pasar el cursor */
     text-decoration: none;
     }
     #vplaylist .active a {
@@ -58,7 +58,7 @@
     }
     #vplaylist .active a:before {
     content: "\25B6";
-    color: #fff; /* Color del icono Play */
+    color: #0112ff; /* Color del icono Play */
     font-style: normal;
     padding-right: 8px;
     }

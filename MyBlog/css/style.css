@@ -14,7 +14,7 @@ body{
     .contenido{
         width: 95%;
         margin: 0 auto;
-        background: linear-gradient(to right, rgba(0, 0, 0, 0.446), rgb(170, 156, 2),rgba(0, 0, 0, 0.446));
+        background: linear-gradient(to right, rgba(0, 0, 0, 0),rgba(0, 0, 0, 0));
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: large;

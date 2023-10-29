@@ -1,7 +1,8 @@
 var video;
 var vplaylist;
 var vtracks;
-var vcurrent;initvideo();
+var vcurrent;
+initvideo();
 function initvideo(){vcurrent=0;
     video=$('video');
     vplaylist=$('#vplaylist');
