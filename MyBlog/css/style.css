@@ -14,12 +14,12 @@ body{
     .contenido{
         width: 95%;
         margin: 0 auto;
-        background: linear-gradient(to right, rgba(0, 0, 0, 0),rgba(0, 0, 0, 0));
+        background: linear-gradient(to right,white,rgb(178, 177, 177),white);
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: large;
        box-sizing: border-box;
-       
+       border-top: red 1px solid;
     }
    
     
@@ -81,8 +81,10 @@ nav ul{
     text-align: left;
     list-style-type: none;
     padding: 50px;
-    background: linear-gradient(to right, rgba(253, 142, 7, 0.579), rgb(255, 240, 73),rgba(253, 142, 7, 0.579));
+    background: white;
     box-sizing: border-box;
+    border-top: 1px red solid;
+    border-bottom: 3px yellow solid;
 
 
 
