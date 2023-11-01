@@ -1,6 +1,3 @@
-
-
-
 #vplaylist, #vplayer {
     width: 80%; /* Ancho de todo el contenedor */
     padding: 20px;
@@ -26,11 +23,8 @@
     #vplaylist {
     margin: 0 auto 20px auto;
     display: block;
-    background: #00000000; /* Fondo del segundo contenedor */
-    border-top: black 1px solid;
-    border-bottom: black 1px solid;
-    border-right: red 1px solid;
-    border-left: yellow 1px solid;
+    background: #232323; /* Fondo del segundo contenedor */
+    border-top: 1px white solid;
     text-align: left;
     font-size: 14px; /* Estilos de fuente */
     font-family: 'Arial', Helvetica, sans-serif;
@@ -43,29 +37,29 @@
     margin: 0;
     }
     #vplaylist li a {
-    color: #ccc; /* Color de las canciones */
-    background: #232323; /* Fondo de las canciones */
+    color: #fdec0277; /* Color de las canciones */
+    background: #343434; /* Fondo de las canciones */
     padding: 7px 2px;
     display: block;
     padding-left: 10px;
     text-decoration: none;
     }
     #vplaylist li a:hover{
-    background: #b3b12310; /* Color de fondo al pasar el cursor */
+    background: #b3b12370; /* Color de fondo al pasar el cursor */
     text-decoration: none;
     }
     #vplaylist .active a {
-    color: #fff; /* Color de la canción activa */
+    color: #ffffff; /* Color de la canción activa */
     font-style: Georgia;
     text-decoration: none;
     }
     #vplaylist .active a:before {
     content: "\25B6";
-    color: #0112ff; /* Color del icono Play */
+    color: #ffffff; /* Color del icono Play */
     font-style: normal;
     padding-right: 8px;
     }
     #vplaylist .active a:hover {
-    color: #000; /* Color de la canción activa al pasar el cursor */
+    color: #ffffff; /* Color de la canción activa al pasar el cursor */
     }
     
