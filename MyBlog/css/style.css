@@ -19,7 +19,6 @@ body{
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: large;
        box-sizing: border-box;
-       border-top: red 1px solid;
     }
    
     
@@ -80,12 +79,9 @@ nav ul{
     width: 100%;
     text-align: left;
     list-style-type: none;
-    padding: 50px;
-    background: white;
+    padding: 10px;
     box-sizing: border-box;
-    border-top: 1px red solid;
-    border-bottom: 3px yellow solid;
-
+background: linear-gradient(to right, rgb(154, 151, 4),rgb(108, 90, 1),rgb(164, 169, 2));
 
 
 
@@ -124,6 +120,9 @@ font-size: larger;
     color: rgb(0, 0, 0);
     width: 150px;
     transition: .3s ease all;
+}
+hr{
+    background-color: blue 2px solid;
 }
 .three-col-cell {
     
