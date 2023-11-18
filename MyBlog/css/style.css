@@ -77,11 +77,11 @@ h1{
 nav ul{
     font-size: x-large;
     width: 100%;
-    text-align: left;
+    text-align: right;
     list-style-type: none;
     padding: 10px;
     box-sizing: border-box;
-background: linear-gradient(to right, rgb(154, 151, 4),rgb(108, 90, 1),rgb(164, 169, 2));
+background: linear-gradient(to right, rgb(237, 229, 185),rgb(200, 200, 200),rgb(237, 229, 185));
 
 
 
@@ -110,7 +110,7 @@ nav li{
 }
 
 nav li:hover {
-transform: translateY(10px);
+transform: translateY(5px);
 }
 
 nav a{
@@ -122,7 +122,7 @@ font-size: larger;
     transition: .3s ease all;
 }
 hr{
-    background-color: blue 2px solid;
+    color: blue 2px solid;
 }
 .three-col-cell {
     
