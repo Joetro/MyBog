@@ -14,7 +14,7 @@ body{
     .contenido{
         width: 95%;
         margin: 0 auto;
-        background: linear-gradient(to right,white,rgb(178, 177, 177),white);
+        background: rgb(233, 233, 210);
         text-align: center;
        font-family:  'Arial Narrow Bold', sans-serif;
        font-size: large;
@@ -77,11 +77,11 @@ h1{
 nav ul{
     font-size: x-large;
     width: 100%;
-    text-align: right;
+    text-align: center;
     list-style-type: none;
     padding: 10px;
     box-sizing: border-box;
-background: linear-gradient(to right, rgb(237, 229, 185),rgb(200, 200, 200),rgb(237, 229, 185));
+background: linear-gradient(to right, rgb(182, 170, 106),rgb(181, 170, 112));
 
 
 

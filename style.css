@@ -82,7 +82,7 @@ body{
 }
 
 .container .video-list-container .list.active{
-   background-color: rgb(146, 134, 4);
+   background-color: #444;
 }
 
 .container .video-list-container .list.active .list-title{
