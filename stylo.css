@@ -16,7 +16,7 @@ iframe {
 }
 
 .container {
-    background: rgb(153, 140, 103);
+    background: rgb(24, 39, 69);
     width: 100%;
     min-height: 100vh;
 }
@@ -74,5 +74,5 @@ p{
     padding-bottom: 15rem;
 }
 .grupo2 {
-    background: #222429;
+    background:rgb(153, 140, 103);
 }
