@@ -15,6 +15,16 @@ h6{
     color:#ffffff;
      font-size: large
 }
+
+     .content{
+        display: flex;
+        align-items: center;
+    }
+
+    .content img {
+        margin-right: 20px; /* Ajusta el margen según sea necesario */
+    }
+
 iframe {
     width: 100%;
     height: 100%;
@@ -27,6 +37,7 @@ iframe {
 }
 .conten {
     padding: 3rem 9% ;
+    background: linear-gradient(90deg, rgb(76, 76, 77), rgba(4, 13, 55, 0.769));
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;   
@@ -90,7 +101,7 @@ footer{
     text-align: center;
     padding: 14px;
     font-size: 75%;
-    background: rgb(0, 0, 0) ;
+    background: rgb(216, 216, 216) ;
     bottom: 0;
   
     
