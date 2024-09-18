@@ -2,43 +2,101 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MyBlog</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/videoplaylist.css">
-    <link rel="stylesheet" type="text/css" href="/MyBlog/css/style.css">
-    <link rel="stylesheet" href="	https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/stylo.css">
 
+    <title>Tutotiales programacion</title>
+    <link rel="stylesheet" href="stylo.css">
 </head>
 <body>
-    <my-header></my-header>
-    <h1>Home</h1>
-    <hr>
-    <br><br>
-    <div>
-        <header class="contenido rounded">
-            <h3 class="title"></h3>
-            <section class="gallery">
-                <p>Aprende programando sin saber nada de código, HTML5, CSS, JS, Bootstrap, con Visual Studio Code (VSC) o usa el editor de código que prefieras.</p>
-                <div class="container text-center">
-                    <div class="row align-items-start">
-                        <div class="col">
-                            <!-- Contenido adicional aquí -->
-                        </div>
-                    </div>
+
+    
+    
+    <div class="container">
+        <div class="conten">
+            <h1><i class="fa-brands fa-youtube"></i> Tutoriales</h1>
+            <p>Turiales de programacion basica,Html,Css,JavaScript. <br> 
+                Tambien programacion avanzada en app para android desorradas en kotlin,xml,en dispositivos moviles.
+
+        </div>
+    
+        <div class="grupo">
+            <h1 class="title1"><i class="fa-brands fa-js-square"></i> Tutoriales</h1>
+            <div class="contvideos">
+                <div class="video">
+                    <p> primer pagina web
+
+                    <iframe  width="560" height="315" src="/videos/1PAG.mp4"
+                        title="YouTube video player" controlsList="nodownload" frameborder="0" 
+                        allow="accelerometer; autoplay muted;clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                       
+                     
                 </div>
-            </section>
-        </header>
-        <div class="container">
-            <div class="main-video-container">
-                <video src="/videos/AUDIO.mp4" controls muted controlslist="nodownload" class="main-video"></video>
-                <h3 class="main-vid-title">Primer pag web HTML CSS</h3>
-                <p>Not talk (No sound)</p>
+    
+                <div class="video">
+                     <p>Navegacion 1
+                    <iframe width="560" height="315" src="/videos/NAVIGATION.mp4"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                       
+                </div>
+                <div class="video">
+                    <p> Navegacion 2
+                    <iframe width="560" height="315" src="/videos/Navegacion 2.mp4"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                </div>            
+    
+                <div class="video" id="video">
+                    <p> Desplegndo en internet gratis
+                    <iframe width="560" height="315" src="/videos/DESPOLEGANDO 04.mp4"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay umted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen id="iframeId" ></iframe>
+               
+              
+    
             </div>
+    
+        </div>
+        <div class="grupo2">
+            <p>programacion avanzada 
+            <h1 class="title1"><i class="fa-brands fa-python"></i></h1>
+            <div class="contvideos">
+                <div class="video">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Fw6030leNxo?si=ciK3NJBCzJLzMAwV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                
+                <div class="video">
+                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ham1FpfWgRI?si=4UA70Mzo1te58eQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="video">
+                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G4DDXRE--x4?si=7zRAqMFq7Gzm9UZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <p>Aprender a progaramar</p>
+                </div>
+               
+                
+            </div>
+    
         </div>
     </div>
-    <script src="./main.js"></script>
+     
+    
+    <script >
+        myVid = document.getElementById("iframeId");
+        myVid.muted = true;
+    </script>
+    
+
+
+
+
+
+
+
+
+
 </body>
 </html>
