@@ -12,7 +12,7 @@
 }
 
 h6{
-    color:#ffffff;
+    color:#000000;
      font-size: large
 }
 
@@ -92,8 +92,9 @@ p{
     background:rgb(153, 140, 103);
 }
 
+
 footer{
-  
+    
     width: 100%;
     margin:0 auto;
     bottom: 0;
@@ -101,7 +102,7 @@ footer{
     text-align: center;
     padding: 14px;
     font-size: 75%;
-    background: rgb(216, 216, 216) ;
+    background: rgb(255, 255, 255) ;
     bottom: 0;
   
     
